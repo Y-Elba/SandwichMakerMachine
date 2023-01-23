@@ -1,0 +1,3 @@
+class Color:
+
+    def __
